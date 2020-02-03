@@ -3,16 +3,16 @@ body {
   box-sizing: border-box;
 }
 .card{
-   text-align: center
+   text-align: center;
    display: inline-block;
-   background: white;
+   background: rgb(158, 26, 26);
    margin: auto;
    height: 200px;
-   width:  250px 
+   width:  250px ;
    padding: 20px;
    padding-top: 180px;
    border: 1px solid black;
-   border-radius: 5px
+   border-radius: 5px;
    position: relative;
    &:before{
     position: absolute;
